@@ -1,0 +1,6 @@
+import com.alibaba.dubbo.registry.multicast.MulticastRegistry;
+public class FunctionUse5027 {
+public void funcUse() {
+MulticastRegistry multicastregistry = new MulticastRegistry();
+}
+}
